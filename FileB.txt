@@ -1,4 +1,4 @@
 This is File B
 Let's make a change.
 Making another change. 
-This is for Squash merge.
+This is for squash merge.
